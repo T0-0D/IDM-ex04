@@ -1,2 +1,2 @@
 # IDM-git-test
-[done] assignment files for IDM ex04
+assignment files for IDM ex04
